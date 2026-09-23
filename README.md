@@ -4,7 +4,7 @@ Este repositório contém o código do meu portfólio pessoal como desenvolvedor
 O objetivo do projeto é apresentar minhas habilidades, tecnologias dominadas e projetos desenvolvidos ao longo da minha jornada na programação.
 
 🌐 **Acesse o portfólio online:**  
-https://michaelrodriguesds.github.io/Portifolio/
+https://wondrous-axolotl-680acd.netlify.app/
 
 ---
 
